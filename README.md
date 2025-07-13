@@ -1,7 +1,3 @@
-Here’s a clear, beginner-friendly README.md template you can use for your Python weather program. You can copy, edit, and expand it as needed:
-
-⸻
-
 🌦️ Python Weather App
 
 A simple Python program to check the current weather for any city using a public weather API.
