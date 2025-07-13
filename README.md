@@ -60,5 +60,3 @@ This project is licensed under the MIT License.
 Pull requests and suggestions are welcome! Feel free to open an issue if you’d like to add features or fix bugs.
 
 ⸻
-
-If you’d like, tell me more about what your program does (e.g., CLI, GUI, specific API, advanced features), and I can make the README more detailed and tailored to your project.
