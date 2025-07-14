@@ -37,7 +37,7 @@ Follow the on-screen prompts to enter a city name.
 
 🧩 Example
 
-![example](/Images/api.jpg)
+![example](/Images/example.png)
 
 📝 Customization
 	•	Change units (Celsius/Fahrenheit) by modifying the API request URL
