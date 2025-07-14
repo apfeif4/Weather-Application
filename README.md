@@ -37,12 +37,7 @@ Follow the on-screen prompts to enter a city name.
 
 🧩 Example
 
-Enter city name: London
-Weather in London:
-Temperature: 19°C
-Description: Partly cloudy
-Humidity: 65%
-Wind Speed: 4.6 m/s
+![example](/Images/api.jpg)
 
 📝 Customization
 	•	Change units (Celsius/Fahrenheit) by modifying the API request URL
