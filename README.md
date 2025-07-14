@@ -31,9 +31,7 @@ Update the script with your weather API key (if required):
 
 ![api](/Images/api.jpg)
 
-Run the program:
-
-python weather.py
+Run the program.
 
 Follow the on-screen prompts to enter a city name.
 
