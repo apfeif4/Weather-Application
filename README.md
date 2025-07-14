@@ -2,15 +2,15 @@
 
 A simple Python program to check the current weather for any city using a public weather API.
 
-📋 Features/n
-	•	Fetches real-time weather data for a specified city
-	•	Displays temperature, weather description, humidity, and wind speed
-	•	Easy to use and extend
+📋 Features
+	*	Fetches real-time weather data for a specified city
+	*	Displays temperature, weather description, humidity, and wind speed
+	*	Easy to use and extend
 
 🛠 Requirements
-	•	Python 3.7+
-	•	requests library (for HTTP requests)
-	•	(Optional) A free API key from OpenWeatherMap or any other weather API
+	*	Python 3.7+
+	*	requests library (for HTTP requests)
+	*	(Optional) A free API key from OpenWeatherMap or any other weather API
 
 📦 Installation
 	1.	Clone this repository:
@@ -40,9 +40,9 @@ Follow the on-screen prompts to enter a city name.
 ![example](/Images/example.png)
 
 📝 Customization
-	•	Change units (Celsius/Fahrenheit) by modifying the API request URL
-	•	Display additional details like sunrise/sunset, visibility, etc.
-	•	Build a GUI or web version for better interactivity
+	*	Change units (Celsius/Fahrenheit) by modifying the API request URL
+	*	Display additional details like sunrise/sunset, visibility, etc.
+	*	Build a GUI or web version for better interactivity
 
 ⚖️ License
 
