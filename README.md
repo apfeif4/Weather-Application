@@ -2,7 +2,7 @@
 
 A simple Python program to check the current weather for any city using a public weather API.
 
-📋 Features
+📋 Features/n
 	•	Fetches real-time weather data for a specified city
 	•	Displays temperature, weather description, humidity, and wind speed
 	•	Easy to use and extend
