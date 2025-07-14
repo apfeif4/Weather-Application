@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Update the script with your weather API key (if required):
 
-/apfeif4/Weather-Application/blob/gh-pages/Readme%20Images/your%20api%20key%20here.jpg)
+/Weather-Application/Images/api.jpg)
 
 Run the program:
 
